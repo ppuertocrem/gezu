@@ -1,0 +1,30 @@
+ID,TypeAffectation,PeriodeConstruction,AgentEnergetique,NbrNiveauxChauffes,EmpreinteSol_[m2]
+1,Immeuble de bureaux,1981-1985,Mazout,3,518
+2,Batiment commercial,2011-2015,Mazout,1,1203
+3,Immeuble de bureaux,1971-1980,Electricite,3,428
+4,Immeuble de bureaux,1981-1985,Gaz naturel,4,985
+5,Maison mitoyenne,1981-1985,Gaz naturel,4,1275
+6,Maison mitoyenne,2011-2015,Gaz naturel,2,388
+7,Maison mitoyenne,1996-2000,Gaz naturel,2,388
+8,Batiment commercial,1991-1995,Mazout,4,1613
+9,Immeuble de bureaux,1986-1990,Mazout,4,1033
+10,Maison mitoyenne,2001-2005,Gaz naturel,2,483
+11,Immeuble de bureaux,2001-2005,Electricite,3,717
+12,Batiment commercial,1986-1990,Mazout,4,1458
+13,Maison mitoyenne,1981-1985,Electricite,2,310
+14,Maison mitoyenne,1981-1985,Mazout,2,331
+15,Maison individuelle,1996-2000,Mazout,1,158
+16,Batiment culturel,1991-1995,Mazout,2,335
+17,Maison mitoyenne,1981-1985,Mazout,2,201
+18,Maison mitoyenne,2006-2010,Electricite,2,272
+19,Maison mitoyenne,1946-1960,Mazout,2,330
+20,Batiment commercial,1921-1945,Mazout,2,407
+21,Immeuble de bureaux,2011-2015,Gaz naturel,3,572
+22,Batiment industriel,1971-1980,Electricite,1,1521
+23,Immeuble de bureaux,1921-1945,Mazout,3,540
+24,Batiment commercial,1900-1920,Mazout,4,2937
+25,Batiment industriel,1971-1980,Mazout,1,1492
+26,Immeuble de bureaux,1981-1985,Gaz naturel,2,2962
+27,Hopital,1946-1960,Mazout,3,2602
+28,Immeuble de bureaux,1991-1995,Mazout,2,962
+29,Immeuble de bureaux,1961-1970,Gaz naturel,3,960

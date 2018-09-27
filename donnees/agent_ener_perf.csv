@@ -1,0 +1,11 @@
+AE,Factor_E_prim_[ep/ef],CO2_[kgCO2/MJ_ef],Eff_[eu/ef]
+Pas d'agent,0.0,0.0,0.0
+Mazout,1.24,0.2952,0.9
+Charbon,1.66,0.43200000000000005,0.8
+Gaz naturel,1.15,0.2412,0.9
+Electricite,2.34,0.08,1.0
+Bois,1.14,0.0108,0.85
+Pompe a chaleur,2.34,0.08,3.0
+Solaire thermique,1.0,0.002,0.5
+Chaleur a distance,1.1,0.0,0.95
+Autre agent,1.0,0.0,0.9
